@@ -1,3 +1,6 @@
-# between-you-and-me
+# 報導者數位部門公開 Wiki
 
-Public Wiki of TWReporter.
+此 Wiki 目前包括以下項目
+- [x] 讀書會排程
+- [x] 書單（包括程式、設計和管理）
+
