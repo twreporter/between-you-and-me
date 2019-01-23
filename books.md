@@ -13,7 +13,7 @@
 程式 | Terraform: Up and Running: Writing Infrastructure as Code | babygoat | https://www.tenlong.com.tw/products/9781491977088?list_name=srh | 辦公室
 設計 | 設計思考改造世界 |  gina | https://www.books.com.tw/products/0010479685 | 法賢家
 設計 | 設計・Design・デザイン | gina | https://www.books.com.tw/products/0010787688?loc=P_003_026 | 辦公室
-賦能：打造應對不確定性的敏捷團隊 | yucj | https://www.tenlong.com.tw/products/9787508676555 | yucj 家
+管理 | 賦能：打造應對不確定性的敏捷團隊 | yucj | https://www.tenlong.com.tw/products/9787508676555 | yucj 家
 
 
 
