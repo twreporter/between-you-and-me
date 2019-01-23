@@ -1,6 +1,6 @@
 # 已購買書單
 分類 |  書名  | 推薦人 | 介紹 | 狀態
---- | ---  | --- | --- 
+--- | ---  | --- | --- | --- 
 程式 | 資料庫	High Performance MySQL: Optimization, Backups, and Replication, 3/e (Paperback)	| nick | https://www.tenlong.com.tw/products/9781449314286?list_name=srh | nick 家 
 程式 |  The Pragmatic Programmer: From Journeyman to Master (Paperback) | nick	| https://www.tenlong.com.tw/products/9780201616224?list_name=srh |  nick 家 
 程式 | 易讀程式之美學－提升程式碼可讀性的簡單法則 (The Art of Readable Code) | yucj |	https://www.tenlong.com.tw/products/9789862767191 | yucj 家 
