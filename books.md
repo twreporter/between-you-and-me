@@ -16,7 +16,7 @@
 管理 | 賦能：打造應對不確定性的敏捷團隊 | yucj | https://www.tenlong.com.tw/products/9787508676555 | yucj 家
 設計 | Designing UX: Prototyping: Because Modern Design is Never Static | taylor	| https://www.tenlong.com.tw/products/9780994347084 | 辦公室
 程式 | Kent Beck 的實作模式 (Implementation Patterns) | taylor | https://www.tenlong.com.tw/products/9789862018088 | taylor 家
-管理 | 產品路線圖：從革新到蛻變 | mimi | https://www.books.com.tw/products/0010790213 ｜ 辦公室
+管理 | 產品路線圖：從革新到蛻變 | mimi | https://www.books.com.tw/products/0010790213 | 辦公室
 管理 | 好產品，背後拚的是同理心：看不清人們最愛的體驗？暢銷產品設計師教你這樣深刻想與用力做！ | mimi | https://www.books.com.tw/products/0010768658 | 辦公室
 
 
