@@ -3,7 +3,7 @@
 * 講者： nick
 * 主題： 設計思考改造世界
 * 須參加人員： 全部
-* 事前準備：
+* 事前準備： [分享連結](https://docs.google.com/presentation/d/1K8QugsNqOcDJRR4kPjua5P2LNADGCqKsfuvR5BVYiSs/edit#slide=id.g4db3a7da3c_3_178)
 
 ## 2019-02-14
 * 講者： dada
