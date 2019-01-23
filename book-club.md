@@ -43,8 +43,8 @@
 
 ## 2019-04-04
 * 講者： taylor
-* 主題：
-* 須參加人員：
+* 主題： Designing UX: Prototyping: Because Modern Design is Never Static
+* 須參加人員： 全部
 * 事前準備：
 
 ## 2019-04-11
