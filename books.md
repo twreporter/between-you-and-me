@@ -14,19 +14,21 @@
 設計 | 設計思考改造世界 |  gina | https://www.books.com.tw/products/0010479685 | 法賢家
 設計 | 設計・Design・デザイン | gina | https://www.books.com.tw/products/0010787688?loc=P_003_026 | 辦公室
 管理 | 賦能：打造應對不確定性的敏捷團隊 | yucj | https://www.tenlong.com.tw/products/9787508676555 | yucj 家
+設計 | Designing UX: Prototyping: Because Modern Design is Never Static | taylor	| https://www.tenlong.com.tw/products/9780994347084 | 辦公室
+程式 | Kent Beck 的實作模式 (Implementation Patterns) | taylor | https://www.tenlong.com.tw/products/9789862018088 | taylor 家
+管理 | 產品路線圖：從革新到蛻變 | mimi | https://www.books.com.tw/products/0010790213 ｜ 辦公室
+管理 | 好產品，背後拚的是同理心：看不清人們最愛的體驗？暢銷產品設計師教你這樣深刻想與用力做！ | mimi | https://www.books.com.tw/products/0010768658 | 辦公室
+
+
 
 
 
 # 待購買書單
  書名  | 推薦人 | 介紹 
  ---  | --- | --- 
-產品路線圖：從革新到蛻變 | taylor | https://www.books.com.tw/products/0010790213
 Team of Teams: New Rules of Engagement for a Complex World（已購中譯） | yucj | https://www.amazon.com/Team-Teams-Rules-Engagement-Complex-ebook
 設計的心理學：人性化的產品設計如何改變世界(3版)	| gina | https://www.books.com.tw/products/0010643797?loc=P_asb_004
 資訊視覺化設計的潮流：資訊與圖解的近代史 | gina | https://www.books.com.tw/products/0010787738?loc=P_003_022
 打造最強網頁UI/UX設計腦：設計師都該懂的絕佳設計．溝通法則	| gina | https://www.books.com.tw/products/0010723121
 打造最強網頁UI/UX設計腦：設計師都該懂的絕佳設計．溝通法則	| gina | https://www.books.com.tw/products/0010647480?loc=P_asb_003
 使用者故事對照：User Story Mapping | Mimi	|https://www.books.com.tw/products/0010712916
-Designing UX: Prototyping: Because Modern Design is Never Static | taylor	| https://www.tenlong.com.tw/products/9780994347084
-Kent Beck 的實作模式 (Implementation Patterns) | taylor |https://www.tenlong.com.tw/products/9789862018088
-好產品，背後拚的是同理心：看不清人們最愛的體驗？暢銷產品設計師教你這樣深刻想與用力做！ | taylor | https://www.books.com.tw/products/0010768658
