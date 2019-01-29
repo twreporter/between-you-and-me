@@ -1,9 +1,9 @@
 # schedule
 ## 2019-01-24
 * 講者： nick
-* 主題：
-* 須參加人員：
-* 事前準備：
+* 主題： 設計思考改造世界
+* 須參加人員： 全部
+* 事前準備： [分享連結](https://docs.google.com/presentation/d/1K8QugsNqOcDJRR4kPjua5P2LNADGCqKsfuvR5BVYiSs/edit#slide=id.g4db3a7da3c_3_178)
 
 ## 2019-02-14
 * 講者： dada
@@ -43,8 +43,8 @@
 
 ## 2019-04-04
 * 講者： taylor
-* 主題：
-* 須參加人員：
+* 主題： Designing UX: Prototyping: Because Modern Design is Never Static
+* 須參加人員： 全部
 * 事前準備：
 
 ## 2019-04-11
