@@ -30,5 +30,5 @@ Team of Teams: New Rules of Engagement for a Complex World（已購中譯） | y
 設計的心理學：人性化的產品設計如何改變世界(3版)	| gina | https://www.books.com.tw/products/0010643797?loc=P_asb_004
 資訊視覺化設計的潮流：資訊與圖解的近代史 | gina | https://www.books.com.tw/products/0010787738?loc=P_003_022
 打造最強網頁UI/UX設計腦：設計師都該懂的絕佳設計．溝通法則	| gina | https://www.books.com.tw/products/0010723121
-打造最強網頁UI/UX設計腦：設計師都該懂的絕佳設計．溝通法則	| gina | https://www.books.com.tw/products/0010647480?loc=P_asb_003
+多元裝置時代的網站UI/UX設計法則：打造出讓使用者完美體驗的好用介面	| gina | https://www.books.com.tw/products/0010647480?loc=P_asb_003
 使用者故事對照：User Story Mapping | Mimi	|https://www.books.com.tw/products/0010712916
