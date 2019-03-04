@@ -18,6 +18,15 @@
 程式 | Kent Beck 的實作模式 (Implementation Patterns) | taylor | https://www.tenlong.com.tw/products/9789862018088 | taylor 家
 管理 | 產品路線圖：從革新到蛻變 | mimi | https://www.books.com.tw/products/0010790213 | 辦公室
 管理 | 好產品，背後拚的是同理心：看不清人們最愛的體驗？暢銷產品設計師教你這樣深刻想與用力做！ | mimi | https://www.books.com.tw/products/0010768658 | 辦公室
+設計 | 設計的鐵則：看見客戶真實需求！邁向成功設計師 | Dada | https://www.books.com.tw/products/0010810666 | 辦公室
+設計 | 設計是一種思維：從設計師到客戶角度探討如何做出好設計 | Dada | https://www.books.com.tw/products/0010788239 | 辦公室
+設計 | 設計獎道理 | Dada | https://www.books.com.tw/products/0010531109 | 辦公室
+設計 | 書設計：入行必備的權威聖經，編輯、設計、印刷全事典 | Dada | https://www.books.com.tw/products/0010623119 | Dada 借走
+其他 | MIGRANT JOURNAL NO.3: FLOWING GROUNDS | Dada | https://migrantjournal.com/products/pre-order-migrant-journal-no-3-flowing-grounds | Dada 借走
+其他 | Apartamento Magazine issue #16 | Dada | https://www.apartamentomagazine.com/product/issue-16/ | Dada 借走
+
+
+
 
 
 
