@@ -14,8 +14,8 @@
 ## 2019-02-21
 ### Part One
 * 講者： babygoat
-* 主題：
-* 須參加人員：
+* 主題：Locking and MVCC(Multi-Version Concurrency Control) of MYSQL 
+* 須參加人員： Engineer
 * 事前準備：
 
 ### Part Two
