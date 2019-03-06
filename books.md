@@ -24,6 +24,8 @@
 設計 | 書設計：入行必備的權威聖經，編輯、設計、印刷全事典 | Dada | https://www.books.com.tw/products/0010623119 | Dada 借走
 其他 | MIGRANT JOURNAL NO.3: FLOWING GROUNDS | Dada | https://migrantjournal.com/products/pre-order-migrant-journal-no-3-flowing-grounds | Dada 借走
 其他 | Apartamento Magazine issue #16 | Dada | https://www.apartamentomagazine.com/product/issue-16/ | Dada 借走
+其他 | 給力：NETFLIX 維持創新動能的人才策略 | yucj | https://readmoo.com/book/210094921000101 | yucj帳號
+管理 | SCRUM：用一半的時間做兩倍的事 | yucj | https://readmoo.com/book/210031233000101 | yucj帳號
 
 
 
