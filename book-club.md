@@ -30,6 +30,18 @@
 * 須參加人員：
 * 事前準備：
 
+### Lightning Talk 1
+* 講者：mimi
+* 主題：
+* 須參加人員：
+* 事前準備：
+
+### Lightning Talk 2
+* 講者：taylor
+* 主題：Introduction to React Hooks
+* 須參加人員：Engineer
+* 事前準備：
+
 ## 2019-03-14
 * 講者： yucj
 * 主題：
