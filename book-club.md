@@ -26,8 +26,8 @@
 
 ## 2019-03-07
 * 講者：yuchen
-* 主題：
-* 須參加人員：
+* 主題：100 years of color
+* 須參加人員：全部
 * 事前準備：
 
 ### Lightning Talk 1
