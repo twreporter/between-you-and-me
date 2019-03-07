@@ -28,7 +28,7 @@
 * 講者：yuchen
 * 主題：100 years of color
 * 須參加人員：全部
-* 事前準備：
+* 事前準備：[PPT](https://drive.google.com/file/d/1oOPM0auKi4LYPlDhFH6bKLC09KUGy5Hc/view?usp=sharing)
 
 ### Lightning Talk 1
 * 講者：mimi
