@@ -32,9 +32,9 @@
 
 ### Lightning Talk 1
 * 講者：mimi
-* 主題：FT的內部圖表系統功能簡介
-* 須參加人員：全部
-* 事前準備：[文章](https://medium.com/ft-product-technology/fastcharts-changing-the-ft-newsroom-one-tool-at-a-time-81f2b035761c?fbclid=IwAR3S8Jna6qLg4leACDgk6yoVLrQ2oW-a45rwceTxpOB4iJn8GF63l3tpX1c)[系統連結](https://fastcharts.io/?fbclid=IwAR1NfRZp_lmLmcK8sEHYaHbD6ekKRIYhgTARDatOkLihxCq7bwe8nFbXiw8)
+* 主題：
+* 須參加人員：
+* 事前準備：
 
 ### Lightning Talk 2
 * 講者：taylor
@@ -47,6 +47,12 @@
 * 主題：SCRUM: The Art of Doing Twice the Work in Half the Time
 * 須參加人員：全部
 * 事前準備：[摘要](scrum-book)
+
+### Lightning Talk 1
+* 講者：mimi
+* 主題：圖表系統Flourish
+* 須參加人員：全部
+* 事前準備：[Flourish圖表平台](https://app.flourish.studio/projects)
 
 ## 2019-03-21
 * 講者： mimi
