@@ -43,10 +43,10 @@
 * 事前準備：
 
 ## 2019-03-14
-* 講者： yucj
-* 主題：
-* 須參加人員：
-* 事前準備：
+* 講者：yucj
+* 主題：SCRUM: The Art of Doing Twice the Work in Half the Time
+* 須參加人員：全部
+* 事前準備：[摘要](scrum-book)
 
 ## 2019-03-21
 * 講者： mimi
