@@ -43,3 +43,6 @@ Team of Teams: New Rules of Engagement for a Complex World（已購中譯） | y
 打造最強網頁UI/UX設計腦：設計師都該懂的絕佳設計．溝通法則	| gina | https://www.books.com.tw/products/0010723121
 多元裝置時代的網站UI/UX設計法則：打造出讓使用者完美體驗的好用介面	| gina | https://www.books.com.tw/products/0010647480?loc=P_asb_003
 使用者故事對照：User Story Mapping | Mimi	|https://www.books.com.tw/products/0010712916
+從需求到設計：如何設計出客戶想要的產品 | yucj | [給 PM 的書單](https://blog.akanelee.me/2018/02/05/book-list/)
+資訊架構學：網站、App與資訊生態系統規劃（第四版） | yucj | [給 PM 的書單](https://blog.akanelee.me/2018/02/05/book-list/)
+
