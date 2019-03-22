@@ -58,7 +58,7 @@
 * 講者： mimi
 * 主題：TED TALKS 說話的力量：你可以用言語來改變自己，也改變世界 TED唯一官方版演講指南
 * 須參加人員：
-* 事前準備：[書籍連結]（https://www.books.com.tw/products/0010719054）
+* 事前準備：[書籍連結]（https://www.books.com.tw/products/0010719054）、[PPT](https://docs.google.com/presentation/d/1vHLeaEjd3bZ5-rA6jYr9uH-lKjH_HuVH3Bn-QJTMh18/edit?usp=sharing)
 
 ## 2019-03-28
 * 講者： gina
