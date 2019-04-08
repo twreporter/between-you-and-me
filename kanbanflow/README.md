@@ -10,7 +10,7 @@
 
 ## 新增卡片（Card）
 ### 命名規則
-在 `Sprint` 開頭的 Swinlane 裡新增的卡片的名稱必須參照以下格式：
+在 `Sprint` 開頭的 `Swinlane` 裡新增的卡片的名稱必須參照以下格式：
 
 `[${sprintNumber}:story-${storyNumber}]身為xxx，我想要xxx，如此一來，我可以xxx`
 
@@ -23,7 +23,7 @@
 每個在 Sprint 裡規劃要做的卡片都必須給予標籤，標籤可以多個，**但至少要有一個標籤是註明此卡片是屬於哪個 Sprint 裡的哪個 Story**。
 
 舉例而言：
-`17:story-2` -> 第 17 個 Sprint 的 `story-2` 的卡片。
+`17:story-2` -> `Sprint-17` 的 `story-2` 的卡片。
 
 ### 關聯（Relation）
 每張卡片（除了 Root Story 本身）都必須增加 `Relation`，
