@@ -76,7 +76,7 @@
 * 事前準備：
   * 《Designing UX: Prototyping: Because Modern Design is Never Static》
   * 《Google創投認證！SPRINT衝刺計畫：Google最實用工作法，5天5步驟迅速解決難題、測試新點子、完成更多工作！》
-  * [投影片]（https://drive.google.com/file/d/1RxKc6YD16tiddb4OAMcA8by0xGfvz99y/view?usp=sharing）
+  * [投影片](https://drive.google.com/file/d/1RxKc6YD16tiddb4OAMcA8by0xGfvz99y/view?usp=sharing)
 
 ## 2019-04-18
 * 講者： nick
