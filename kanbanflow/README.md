@@ -10,20 +10,25 @@
 
 ## 新增卡片（Card）
 ### 命名規則
-在 `Sprint` 開頭的 `Swinlane` 裡新增的卡片的名稱必須參照以下格式：
+新增的卡片的名稱必須參照以下格式：
 
-`[${sprintNumber}:story-${storyNumber}]身為xxx，我想要xxx，如此一來，我可以xxx`
+`[story-${storyNumber}]身為xxx，我想要xxx，如此一來，我可以xxx`
+
+**特別注意：** `${storyNumber}` 不能與其他已存在的 `${storyNumber}` 重複。
+在選定 `${storyNumber}` 時，必須找出目前存在最大的 `${maxStoryNumber}`，並加上 1。
+```
+${storyNumber} = ${maxStoryNumber} + 1
+```
 
 舉例而言：
 
-`[17:story-2]身為 Narwhale 的使用者，我想要優化 Narwhale 的使用方式，好讓我能夠更輕易地找到我想要找的資料。`
-
+`[story-2]身為 Narwhale 的使用者，我想要優化 Narwhale 的使用方式，好讓我能夠更輕易地找到我想要找的資料。`
 
 ### 標籤（Label）
-每個在 Sprint 裡規劃要做的卡片都必須給予標籤，標籤可以多個，**但至少要有一個標籤是註明此卡片是屬於哪個 Sprint 裡的哪個 Story**。
+每個在 Sprint 裡規劃要做的卡片都必須給予標籤，標籤可以多個，**但一定要標籤此卡片屬於哪個 Sprint，以及它的`${StoryNumber}`**。
 
-舉例而言：
-`17:story-2` -> `Sprint-17` 的 `story-2` 的卡片。
+假設新增的卡片，在 `sprint-18`，而卡片的 `${storyNumber}` 為 `2`，則必須標注以下標籤：
+`sprint-18`, `story-2`
 
 ### 關聯（Relation）
 每張卡片（除了 Root Story 本身）都必須增加 `Relation`，
