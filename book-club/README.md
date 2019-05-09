@@ -104,7 +104,7 @@
 * 主題： 龐克的哲學
 * 須參加人員：
 * 事前準備：
-  * [投影片]()
+  * [投影片](https://github.com/twreporter/between-you-and-me/raw/master/book-club/%E9%BE%90%E5%85%8B%E7%9A%84%E5%93%B2%E5%AD%B8-%E5%84%80%E5%90%9B.pdf)
 
 ## 2019-05-16
 * 講者： nick
