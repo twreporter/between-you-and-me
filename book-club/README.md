@@ -83,14 +83,14 @@
 * 主題： 新聞不死，只是很累
 * 須參加人員： all
 * 事前準備：
- * [投影片]()
+  * [投影片]()
 
 ## 2019-04-25
 * 講者： weimin
 * 主題： 看見紀錄片
 * 須參加人員：all
 * 事前準備：
- * [投影片](https://github.com/twreporter/between-you-and-me/raw/master/book-club/%E7%9C%8B%E8%A6%8B%E7%B4%80%E9%8C%84%E7%89%87.key)
+  * [投影片](https://github.com/twreporter/between-you-and-me/raw/master/book-club/%E7%9C%8B%E8%A6%8B%E7%B4%80%E9%8C%84%E7%89%87.key)
 
 ## 2019-05-02
 * 講者： jameson
