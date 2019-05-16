@@ -108,10 +108,11 @@
 
 ## 2019-05-16
 * 講者： nick
-* 主題：
+* 主題： 阿德勒心理學
 * 須參加人員：
 * 事前準備：
-
+  * [投影片](https://github.com/twreporter/between-you-and-me/raw/master/book-club/%E8%AE%80%E6%9B%B8%E6%9C%83%E5%88%86%E4%BA%AB%EF%BC%9A%E9%98%BF%E5%BE%B7%E5%8B%92%E5%BF%83%E7%90%86%E5%AD%B8.key)
+  
 ## 2019-05-23
 * 講者： dada
 * 主題：
