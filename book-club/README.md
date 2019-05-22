@@ -119,6 +119,14 @@
 * 須參加人員：
 * 事前準備：
 
+
+### Lightning Talk 1
+* 講者：yucj
+* 主題：Pinkoi Open House Evening 活動簡記（Pinkoi Operations Team 分享他們如何進行工作）
+* 須參加人員：隨意，二人以上成團
+* 事前準備：[活動簡介](https://www.facebook.com/events/2318515331693876/)
+
+
 ## 2019-05-30
 * 講者： mimi
 * 主題：
