@@ -118,6 +118,7 @@
 * 主題： 失控的正向思考
 * 須參加人員：
 * 事前準備：
+ * [投影片](https://github.com/twreporter/between-you-and-me/blob/master/book-club/190523%E8%AE%80%E6%9B%B8%E6%9C%83%E2%80%94%E5%A4%B1%E6%8E%A7%E7%9A%84%E6%AD%A3%E5%90%91%E6%80%9D%E8%80%83.key)
 
 
 ### Lightning Talk 1
