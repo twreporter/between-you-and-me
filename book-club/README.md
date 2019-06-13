@@ -142,9 +142,10 @@
 
 ## 2019-06-13
 * 講者： yuchen
-* 主題：
+* 主題：設計的手感
 * 須參加人員：
-* 事前準備：
+* 事前準備： [PPT](https://github.com/twreporter/between-you-and-me/blob/master/book-club/190613%E8%AE%80%E6%9B%B8%E6%9C%83-%E8%A8%AD%E8%A8%88%E7%9A%84%E6%89%8B%E6%84%9F.key)
+
 
 ## 2019-06-20
 * 講者： yucj
