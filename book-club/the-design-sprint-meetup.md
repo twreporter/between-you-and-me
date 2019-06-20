@@ -44,14 +44,14 @@
   
   ![lean startup cycle shortcut](http://www.teacuplab.com/wp-content/uploads/2016/09/4.shortcut.png "lean startup cycle - shortcut")
 
-- But, does they remove uncertainty?
+- But, does they remove uncertainty? [3]
   > No, they don’t, but Design Sprints drastically `shorten the time needed to get an answer from the customers` and, hence, they reduce the risks of making bad decisions as we get an initial validation in just five days.
 
-**How Design Sprint Works**
+**How Design Sprint Works [2]**
 
 ![design sprint](https://static1.squarespace.com/static/56778f460ab377c981686546/t/5ae3e0a2575d1fd630ad6574/1524883624571/Screen+Shot+2018-04-27+at+4.55.17+PM.png?format=2500w "design sprint")
 
-- Instructions [2]
+- Instructions
   - DAY1: Map 
     - *Start at the end*
     - Make a map of the challenge
