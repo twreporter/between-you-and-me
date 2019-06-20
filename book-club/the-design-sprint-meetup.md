@@ -73,8 +73,16 @@
     - Interview 5 customers and learn by watching them react to your prototype
 
 **Takeaway**
-- brainstorm *vs* design alone together
-- voting for the entire concept or only features
+- Brainstorm *vs* Design alone together
+- Voting for the entire concept or only features
+- Crazy eight
+- User testing tips:
+  - Explain there's no right or wrong
+  - Start with warm-up questions
+  - Ask the reason of the behavior without judge
+  - Don't ask questions that will influence the answer
+  - Don't try to sell your product
+  - Never ask anyone what do they want
 
 **References**
 1. [The design thinking process](https://www.interaction-design.org/literature/topics/design-thinking)
