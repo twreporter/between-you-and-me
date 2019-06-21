@@ -1,4 +1,4 @@
-## Notes in The Design Sprint Meetup
+## Notes in the Design Sprint Meetup
 
 ### The Design Sprint
 **Definition -** The design sprint is a five-day process for answering critical business questions through design, prototyping, and testing ideas with customers.
