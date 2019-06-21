@@ -153,6 +153,12 @@
 * 須參加人員：
 * 事前準備：
 
+### Lightning Talk 1
+* 講者：taylor
+* 主題：參加 design sprint 小聚的心得分享
+* 須參加人員：不限
+* 事前準備：[Notes in the Design Sprint Meetup](https://github.com/twreporter/between-you-and-me/blob/master/book-club/the-design-sprint-meetup.md)
+
 ## 2019-06-27
 * 講者： gina
 * 主題：
