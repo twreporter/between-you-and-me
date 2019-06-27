@@ -161,9 +161,9 @@
 
 ## 2019-06-27
 * 講者： dada
-* 主題：
+* 主題：使用者經驗了美好的一天，但是於我何干？
 * 須參加人員：
-* 事前準備：
+* 事前準備：[User Experience](https://github.com/twreporter/between-you-and-me/blob/master/book-club/190627%E4%BD%BF%E7%94%A8%E8%80%85%E7%B6%93%E9%A9%97%E4%BA%86%E7%BE%8E%E5%A5%BD%E7%9A%84%E4%B8%80%E5%A4%A9%EF%BC%8C%E4%BD%86%E6%98%AF%E6%96%BC%E6%88%91%E4%BD%95%E5%B9%B2%EF%BC%9F.key)
 
 ## 2019-07-04
 * 講者： gina
