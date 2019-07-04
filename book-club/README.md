@@ -167,9 +167,9 @@
 
 ## 2019-07-04
 * 講者： gina
-* 主題：
+* 主題：《This Means This This Means That 這就是符號學》
 * 須參加人員：不限
-* 事前準備：
+* 事前準備：[摘要](https://paper.dropbox.com/doc/This-Means-This-This-Means-That--AgR3tZ516Puo5y5xjGCnEow9AQ-MUh5tQbHXYGsyh5mW6Lx6)
 
 ## 2019-07-11
 * 講者： taylor
