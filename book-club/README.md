@@ -177,6 +177,7 @@
 * 須參加人員：不限
 * 事前準備：
   * 《使用者故事對照》
+  * [投影片](https://docs.google.com/presentation/d/1eyp299GFZJR2889o_nmxRo_yONnZLjxoDpyP7MPWgx4/mobilepresent?slide=id.g45b61515dd_0_173)
 
 ## 2019-07-18
 * 講者： weimin
