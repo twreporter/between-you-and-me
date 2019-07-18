@@ -181,9 +181,9 @@
 
 ## 2019-07-18
 * 講者： jameson
-* 主題： 
+* 主題： 大賣場的人類學家
 * 須參加人員：
-* 事前準備：
+* 事前準備：[投影片](https://github.com/twreporter/between-you-and-me/blob/master/book-club/190718%E8%AE%80%E6%9B%B8%E6%9C%83-%E5%A4%A7%E8%B3%A3%E5%A0%B4%E7%9A%84%E4%BA%BA%E9%A1%9E%E5%AD%B8%E5%AE%B6.key)
 
 ## 2019-07-25
 * 講者： weimin
