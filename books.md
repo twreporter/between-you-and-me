@@ -1,8 +1,9 @@
 # 已購買書單
 分類 |  書名  | 推薦人 | 介紹 | 狀態
 --- | ---  | --- | --- | --- 
+程式 |  Designing Data-Intensive Application (Paperback) | nick	| https://www.oreilly.com/library/view/designing-data-intensive-applications/9781491903063/ |  法賢
 程式 | 資料庫	High Performance MySQL: Optimization, Backups, and Replication, 3/e (Paperback)	| nick | https://www.tenlong.com.tw/products/9781449314286?list_name=srh | nick 家 
-程式 |  The Pragmatic Programmer: From Journeyman to Master (Paperback) | nick	| https://www.tenlong.com.tw/products/9780201616224?list_name=srh |  nick 家 
+程式 |  The Pragmatic Programmer: From Journeyman to Master (Paperback) | nick	| https://www.tenlong.com.tw/products/9780201616224?list_name=srh |  泰勒
 程式 | 易讀程式之美學－提升程式碼可讀性的簡單法則 (The Art of Readable Code) | yucj |	https://www.tenlong.com.tw/products/9789862767191 | yucj 家 
 程式 | CODE COMPLETE：軟體開發實務指南, 2/e (中文版) (Code Complete: A Practical Handbook of Software Construction, 2/e) | yucj | https://www.tenlong.com.tw/products/9789864341313 | yucj 家
 程式 |  設計模式的解析與活用 (Design Patterns Explained: A New Perspective on Object-Oriented Design, 2/e) |	yucj	| https://www.tenlong.com.tw/products/9789862018200 | yucj 家
