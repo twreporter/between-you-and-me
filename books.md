@@ -45,5 +45,5 @@ Team of Teams: New Rules of Engagement for a Complex World（已購中譯） | y
 從需求到設計：如何設計出客戶想要的產品 | yucj | [給 PM 的書單](https://blog.akanelee.me/2018/02/05/book-list/)
 資訊架構學：網站、App與資訊生態系統規劃（第四版） | yucj | [給 PM 的書單](https://blog.akanelee.me/2018/02/05/book-list/)
 [重構｜改善既有程式的設計, 2/e (繁體中文版)(Refactoring: Improving The Design of Existing Code, 2/e)](https://www.tenlong.com.tw/products/9789865021832) | yucj | https://medium.com/@mybaseball52/refactoring-2nd-experience-of-ch1-and-ch2-c262d636e090
-持續API管理：在不斷演變的生態系統中做出正確決策 | yucj | 
+Web API 建構與設計 | yucj | https://www.rakuten.com.tw/shop/rbook/product/2014713571427/
 
