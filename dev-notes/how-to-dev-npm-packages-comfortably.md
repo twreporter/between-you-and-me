@@ -35,9 +35,7 @@ Use `npm link` or `yarn link` to symlink the files of a module into the consumer
 
 This is the most common suggested way.
 
-But it has some problems.
-
-When we use symlink to inject the files in folder, it will cause:
+But it has some problems:
 
 1. Not like packages published with `npm publish` will only contain the files we specified. When compiling the files in `@twreporter/redux`, the compiler like Babel may take the closest config file (`.babelrc`) relative to the target.
 
