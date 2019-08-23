@@ -54,7 +54,7 @@ Ref:
 
 ### Third Party Management Tools
 
-As mentions in [this PR comment](https://github.com/twreporter/twreporter-react/pull/1320#issuecomment-523373005), we can use package like `yalc` to simulate a local npm registry.
+As mentioned in [this PR comment](https://github.com/twreporter/twreporter-react/pull/1320#issuecomment-523373005), we can use package like `yalc` to simulate a local npm registry.
 
 Ref:
 
