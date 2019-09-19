@@ -237,7 +237,7 @@
 * 講者： taylor
 * 主題：Hooked!
 * 須參加人員：
-* 事前準備：[投影片]（https://paper.dropbox.com/doc/HOOKED--AlFWMBRtfpVjEhHHTYM2DytOAg-fOw6wVxapfbWjyrRfXjps）
+* 事前準備：[投影片](https://paper.dropbox.com/doc/HOOKED--AlFWMBRtfpVjEhHHTYM2DytOAg-fOw6wVxapfbWjyrRfXjps)
 
 ## 2019-09-26
 * 講者： gina
