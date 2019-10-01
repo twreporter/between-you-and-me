@@ -243,7 +243,7 @@
 * 講者： gina
 * 主題：《學會改變 How To Change Things When Change Is Hard》
 * 須參加人員：
-* 事前準備：https://paper.dropbox.com/doc/present/sXcDymbA9uLVPwprLEbBL
+* 事前準備：[Dropbox 偽投影片](https://paper.dropbox.com/doc/present/sXcDymbA9uLVPwprLEbBL)
 
 ## 2019-10-03
 * 講者： dada
